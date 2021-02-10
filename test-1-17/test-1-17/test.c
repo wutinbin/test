@@ -1,14 +1,14 @@
 #include <stdio.h>
-//
-//int num1 = 20;//全局变量
-//
-//int main()
-//{
-//	int a = 10;//局部变量
-//	printf("%d\n", a);
-//	return 0;
-//}
-#include <stdio.h>
+
+int num1 = 20;//全局变量
+
+int main()
+{
+	int a = 10;//局部变量
+	printf("%d\n", a);
+	return 0;
+}
+//#include <stdio.h>
 
 //int main()
 //{
